@@ -7,6 +7,7 @@
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pdonda06/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
