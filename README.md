@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/pdonda06/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pdonda06/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pdonda06/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -25,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pdonda06/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -87,5 +89,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pdonda06/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
