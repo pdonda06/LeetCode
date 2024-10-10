@@ -7,6 +7,7 @@
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/pdonda06/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/pdonda06/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pdonda06/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pdonda06/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/pdonda06/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pdonda06/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pdonda06/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -114,4 +116,8 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pdonda06/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pdonda06/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/pdonda06/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
