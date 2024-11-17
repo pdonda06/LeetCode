@@ -8,6 +8,7 @@
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/pdonda06/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/pdonda06/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pdonda06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pdonda06/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pdonda06/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/pdonda06/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/pdonda06/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pdonda06/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pdonda06/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pdonda06/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
@@ -197,6 +202,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/pdonda06/LeetCode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pdonda06/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pdonda06/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -271,4 +277,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/pdonda06/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
