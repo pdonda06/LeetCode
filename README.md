@@ -90,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pdonda06/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -226,6 +227,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pdonda06/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pdonda06/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
