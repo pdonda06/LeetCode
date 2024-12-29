@@ -25,6 +25,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pdonda06/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pdonda06/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/pdonda06/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pdonda06/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/pdonda06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pdonda06/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pdonda06/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -105,6 +106,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pdonda06/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pdonda06/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pdonda06/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pdonda06/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/pdonda06/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pdonda06/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/pdonda06/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -392,6 +394,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/pdonda06/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pdonda06/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pdonda06/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pdonda06/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/pdonda06/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/pdonda06/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
