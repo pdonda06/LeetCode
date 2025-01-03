@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/pdonda06/LeetCode/tree/master/0031-next-permutation) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pdonda06/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
