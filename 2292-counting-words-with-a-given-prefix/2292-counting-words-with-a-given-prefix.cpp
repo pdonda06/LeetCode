@@ -17,11 +17,5 @@ public:
             }
         }
         return ans;
-        // if(flag == 1){
-        //     return ans/pref.size();
-        // }
-        // else{
-        //     return ans;
-        // }
     }
 };
