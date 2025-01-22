@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/pdonda06/LeetCode/tree/master/0031-next-permutation) |
+| [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pdonda06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
@@ -256,6 +258,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/pdonda06/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/pdonda06/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pdonda06/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -265,6 +268,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pdonda06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -545,6 +549,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 ## Rolling Hash
 |  |
 | ------- |
