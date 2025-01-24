@@ -431,6 +431,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/pdonda06/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/pdonda06/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/pdonda06/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pdonda06/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -464,6 +465,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pdonda06/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pdonda06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pdonda06/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -521,6 +523,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pdonda06/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/pdonda06/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -566,4 +569,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pdonda06/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
