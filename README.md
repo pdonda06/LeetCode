@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/pdonda06/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/pdonda06/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -393,6 +394,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/pdonda06/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pdonda06/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pdonda06/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
