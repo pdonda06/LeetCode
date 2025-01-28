@@ -416,6 +416,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pdonda06/LeetCode/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/pdonda06/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pdonda06/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
@@ -526,6 +527,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pdonda06/LeetCode/tree/master/0050-powx-n) |
 | [2716-prime-subtraction-operation](https://github.com/pdonda06/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/pdonda06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pdonda06/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
