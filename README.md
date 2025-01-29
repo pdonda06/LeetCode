@@ -441,6 +441,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pdonda06/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/pdonda06/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -478,6 +479,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pdonda06/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pdonda06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -543,6 +545,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/pdonda06/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -601,6 +604,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pdonda06/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
