@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/pdonda06/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pdonda06/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/pdonda06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/pdonda06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pdonda06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdonda06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pdonda06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/pdonda06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/pdonda06/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -525,6 +527,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pdonda06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/pdonda06/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pdonda06/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
