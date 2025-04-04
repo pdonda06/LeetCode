@@ -121,6 +121,7 @@
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/pdonda06/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pdonda06/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pdonda06/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/pdonda06/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/pdonda06/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pdonda06/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -481,6 +482,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/pdonda06/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pdonda06/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pdonda06/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pdonda06/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pdonda06/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pdonda06/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -497,6 +499,7 @@
 | [0787-sliding-puzzle](https://github.com/pdonda06/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pdonda06/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/pdonda06/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/pdonda06/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -522,6 +525,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/pdonda06/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pdonda06/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pdonda06/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pdonda06/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/pdonda06/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pdonda06/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -538,6 +542,7 @@
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/pdonda06/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pdonda06/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pdonda06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1558-course-schedule-iv](https://github.com/pdonda06/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/pdonda06/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
