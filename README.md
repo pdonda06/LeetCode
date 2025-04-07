@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/pdonda06/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -566,6 +567,7 @@
 | [0072-edit-distance](https://github.com/pdonda06/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdonda06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/pdonda06/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/pdonda06/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
