@@ -487,6 +487,7 @@
 | [0050-powx-n](https://github.com/pdonda06/LeetCode/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/pdonda06/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pdonda06/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/pdonda06/LeetCode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [0050-powx-n](https://github.com/pdonda06/LeetCode/tree/master/0050-powx-n) |
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pdonda06/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/pdonda06/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pdonda06/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/pdonda06/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/pdonda06/LeetCode/tree/master/2998-count-symmetric-integers) |
