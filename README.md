@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pdonda06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/pdonda06/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/pdonda06/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
