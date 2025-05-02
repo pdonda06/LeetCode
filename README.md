@@ -184,6 +184,7 @@
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/pdonda06/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/pdonda06/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pdonda06/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/pdonda06/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -383,6 +384,7 @@
 | [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/pdonda06/LeetCode/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pdonda06/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pdonda06/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pdonda06/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -613,6 +615,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/pdonda06/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/pdonda06/LeetCode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/pdonda06/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pdonda06/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pdonda06/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
