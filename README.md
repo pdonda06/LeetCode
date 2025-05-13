@@ -797,4 +797,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/pdonda06/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/pdonda06/LeetCode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
