@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdonda06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pdonda06/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pdonda06/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
@@ -571,6 +572,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pdonda06/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/pdonda06/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -614,6 +616,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pdonda06/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -662,6 +665,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pdonda06/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/pdonda06/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/pdonda06/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -785,6 +789,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pdonda06/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
