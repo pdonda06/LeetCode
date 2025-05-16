@@ -281,6 +281,7 @@
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0838-design-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/pdonda06/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0838-design-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
