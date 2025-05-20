@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/pdonda06/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pdonda06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pdonda06/LeetCode/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/pdonda06/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pdonda06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/pdonda06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pdonda06/LeetCode/tree/master/0075-sort-colors) |
@@ -557,6 +558,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/pdonda06/LeetCode/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pdonda06/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pdonda06/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
