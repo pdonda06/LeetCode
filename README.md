@@ -212,6 +212,7 @@
 | [0072-edit-distance](https://github.com/pdonda06/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/pdonda06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/pdonda06/LeetCode/tree/master/0868-push-dominoes) |
@@ -440,6 +441,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pdonda06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pdonda06/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pdonda06/LeetCode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/pdonda06/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/pdonda06/LeetCode/tree/master/0868-push-dominoes) |
