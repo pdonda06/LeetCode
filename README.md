@@ -145,6 +145,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pdonda06/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pdonda06/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pdonda06/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/pdonda06/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pdonda06/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pdonda06/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -333,6 +334,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/pdonda06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/pdonda06/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/pdonda06/LeetCode/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/pdonda06/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Linked List
 |  |
 | ------- |
