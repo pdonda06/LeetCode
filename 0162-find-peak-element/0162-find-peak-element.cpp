@@ -4,15 +4,15 @@ public:
         int s= 0;
         int e = nums.size() -1 ;
         int i= 0 ;
-        while(s<e){
+        
+        while(s < e){
             int mid = s+(e-s)/2;
-            if(nums[mid] < nums[mid+1]) {
-                s = mid +1;
+            if(nums[mid] < nums[mid+1]){
+                s = mid + 1;
             }
             else{
-                e = mid;
+                e =mid;
             }
-            // i++;
         }
         return s;
     }
