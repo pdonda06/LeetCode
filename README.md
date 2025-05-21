@@ -219,6 +219,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pdonda06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/pdonda06/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/pdonda06/LeetCode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/pdonda06/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
@@ -499,6 +500,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pdonda06/LeetCode/tree/master/0043-multiply-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pdonda06/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/pdonda06/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/pdonda06/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -754,6 +756,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pdonda06/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/pdonda06/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/pdonda06/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pdonda06/LeetCode/tree/master/0268-missing-number) |
