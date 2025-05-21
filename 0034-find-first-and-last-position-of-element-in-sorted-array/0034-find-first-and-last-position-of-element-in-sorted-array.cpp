@@ -40,8 +40,6 @@ public:
             mid = start + (end-start)/2;
         }
 
-
-        
         ans.push_back(index1);
         ans.push_back(index2);
         return ans;
