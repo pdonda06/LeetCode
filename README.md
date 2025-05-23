@@ -361,6 +361,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pdonda06/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0838-design-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
@@ -623,6 +624,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pdonda06/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/pdonda06/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pdonda06/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/pdonda06/LeetCode/tree/master/2050-count-good-numbers) |
