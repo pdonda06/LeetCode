@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        //sub optimal
+        //MOST optimal
         int n = nums1.size();
         vector<int> ans(n, -1), nge(nums2.size(), -1);
         unordered_map<int , int> mp;
