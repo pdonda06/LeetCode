@@ -73,6 +73,7 @@
 | [1755-defuse-the-bomb](https://github.com/pdonda06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pdonda06/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pdonda06/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1876-map-of-highest-peak](https://github.com/pdonda06/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pdonda06/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pdonda06/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -387,6 +388,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/pdonda06/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pdonda06/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pdonda06/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/pdonda06/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -414,6 +416,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/pdonda06/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pdonda06/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pdonda06/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pdonda06/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pdonda06/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -539,6 +542,7 @@
 | [0043-multiply-strings](https://github.com/pdonda06/LeetCode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/pdonda06/LeetCode/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pdonda06/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/pdonda06/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/pdonda06/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pdonda06/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
