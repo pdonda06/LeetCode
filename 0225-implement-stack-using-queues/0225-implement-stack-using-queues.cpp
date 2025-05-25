@@ -11,6 +11,7 @@ public:
         q1.push(x);
     }
     
+    //costly pop
     int pop() {
         while (q1.size() > 1) {
             q2.push(q1.front());
