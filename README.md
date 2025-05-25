@@ -73,6 +73,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/pdonda06/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/pdonda06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pdonda06/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1767-design-front-middle-back-queue](https://github.com/pdonda06/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pdonda06/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1876-map-of-highest-peak](https://github.com/pdonda06/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -337,6 +338,7 @@
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1767-design-front-middle-back-queue](https://github.com/pdonda06/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2434-design-a-number-container-system](https://github.com/pdonda06/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
@@ -384,6 +386,7 @@
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1767-design-front-middle-back-queue](https://github.com/pdonda06/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -392,6 +395,7 @@
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1767-design-front-middle-back-queue](https://github.com/pdonda06/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pdonda06/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pdonda06/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -956,4 +960,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pdonda06/LeetCode/tree/master/0948-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [1767-design-front-middle-back-queue](https://github.com/pdonda06/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
