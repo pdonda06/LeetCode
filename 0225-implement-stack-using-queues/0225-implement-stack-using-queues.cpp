@@ -6,43 +6,29 @@ private:
 public:
     MyStack() {
     }
-    
+
+    // Costly push
     void push(int x) {
-        q1.push(x);
-    }
-    
-    //costly pop
-    int pop() {
-        while (q1.size() > 1) {
+        q2.push(x);
+
+        while (!q1.empty()) {
             q2.push(q1.front());
             q1.pop();
         }
-
-        int topElement = q1.front();
-        q1.pop();
 
         swap(q1, q2);
-
-        return topElement;
     }
-    
-    int top() {
-        int topElement;
 
-        while (q1.size() > 1) {
-            q2.push(q1.front());
-            q1.pop();
-        }
-
-        topElement = q1.front();
-        q2.push(topElement);
+    int pop() {
+        int topElement = q1.front();
         q1.pop();
-
-        std::swap(q1, q2);
-
         return topElement;
     }
-    
+
+    int top() {
+        return q1.front();
+    }
+
     bool empty() {
         return q1.empty();
     }
