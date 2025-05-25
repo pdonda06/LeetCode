@@ -44,6 +44,7 @@
 | [0797-rabbits-in-forest](https://github.com/pdonda06/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/pdonda06/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/pdonda06/LeetCode/tree/master/0952-word-subsets) |
@@ -334,6 +335,7 @@
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/pdonda06/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/pdonda06/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -380,6 +382,7 @@
 | [0432-all-oone-data-structure](https://github.com/pdonda06/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0838-design-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/pdonda06/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
 |  |
@@ -387,6 +390,7 @@
 | [0225-implement-stack-using-queues](https://github.com/pdonda06/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pdonda06/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/pdonda06/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/pdonda06/LeetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/pdonda06/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pdonda06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pdonda06/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
