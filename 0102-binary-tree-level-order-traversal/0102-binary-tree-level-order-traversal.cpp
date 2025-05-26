@@ -34,7 +34,6 @@ public:
 
             res.push_back(level);
         }
-
-        return res;
+        return res;        
     }
 };
