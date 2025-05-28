@@ -83,6 +83,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/pdonda06/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/pdonda06/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pdonda06/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1962-single-threaded-cpu](https://github.com/pdonda06/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/pdonda06/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pdonda06/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/pdonda06/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -466,6 +467,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/pdonda06/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pdonda06/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pdonda06/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1962-single-threaded-cpu](https://github.com/pdonda06/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pdonda06/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pdonda06/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/pdonda06/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -612,6 +614,7 @@
 | [1304-longest-happy-string](https://github.com/pdonda06/LeetCode/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/pdonda06/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1962-single-threaded-cpu](https://github.com/pdonda06/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pdonda06/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/pdonda06/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pdonda06/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
