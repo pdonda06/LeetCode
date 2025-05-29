@@ -12,10 +12,18 @@ public:
 
     int f(vector<string>& a, int i, int m, int n) {
         if (i == a.size()) return 0;
+
         if (dp[i][m][n] != -1) return dp[i][m][n];
-        int cz = z(a[i]), co = o(a[i]);
-        int s = f(a, i + 1, m, n), t = 0;
-        if (m >= cz && n >= co) t = 1 + f(a, i + 1, m - cz, n - co);
+
+        int cz = z(a[i]);
+        int co = o(a[i]);
+
+        int s = f(a, i + 1, m, n); 
+        int t = 0;
+        if (m >= cz && n >= co){
+            t = f(a, i + 1, m - cz, n - co) + 1;
+        }
+        
         return dp[i][m][n] = max(s, t);
     }
 
