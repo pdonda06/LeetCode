@@ -33,6 +33,7 @@
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pdonda06/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pdonda06/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/pdonda06/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pdonda06/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pdonda06/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -243,6 +244,7 @@
 | [0125-valid-palindrome](https://github.com/pdonda06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pdonda06/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/pdonda06/LeetCode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/pdonda06/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/pdonda06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pdonda06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
@@ -793,6 +795,7 @@
 | [0337-house-robber-iii](https://github.com/pdonda06/LeetCode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pdonda06/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/pdonda06/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/pdonda06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
