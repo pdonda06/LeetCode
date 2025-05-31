@@ -1,38 +1,21 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
-        long long sum = 0;
         int n = skill.size();
-        for(int i=0;i<n;i++){
-            sum += skill[i];
-        }
 
-        int l = n/2;
+        sort(skill.begin(), skill.end());
 
-        if(sum%l !=0){
-            return -1;
-        }
+        int ts = skill[0] + skill[n-1];
+        long long ans = skill[0] * skill[n-1];
 
-        int k = sum/l;
 
-        map<int, int>mp;
-        long long ans = 0;
-
-        for(int i=0; i<n; i++){
-            if(mp.find(k-skill[i]) != mp.end()){
-                ans+=(long long)(k-skill[i]) * (long long)(skill[i]);
-                mp[k-skill[i]]--;
-                if(mp[k-skill[i]]==0){
-                    mp.erase(k-skill[i]);
-                }
-
+        for(int i = 1; i<n/2; i++){
+            if(skill[i] + skill[n-i-1] != ts){
+                return -1;
             }
             else{
-                mp[skill[i]]++;
+                ans += (skill[i] * skill[n-i-1]);
             }
-        }
-        if(mp.size() != 0){
-            return -1;
         }
         return ans;
     }
