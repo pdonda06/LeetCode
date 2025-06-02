@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/pdonda06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pdonda06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdonda06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/pdonda06/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pdonda06/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pdonda06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -571,6 +572,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pdonda06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/pdonda06/LeetCode/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/pdonda06/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pdonda06/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
