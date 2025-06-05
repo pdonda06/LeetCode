@@ -253,6 +253,7 @@
 | [0868-push-dominoes](https://github.com/pdonda06/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/pdonda06/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pdonda06/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/pdonda06/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/pdonda06/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pdonda06/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/pdonda06/LeetCode/tree/master/1304-longest-happy-string) |
@@ -977,6 +978,7 @@
 | [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pdonda06/LeetCode/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/pdonda06/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pdonda06/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pdonda06/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pdonda06/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
