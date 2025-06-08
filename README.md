@@ -304,6 +304,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/pdonda06/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pdonda06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pdonda06/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pdonda06/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -785,6 +786,7 @@
 | [0200-number-of-islands](https://github.com/pdonda06/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pdonda06/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/pdonda06/LeetCode/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/pdonda06/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pdonda06/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pdonda06/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/pdonda06/LeetCode/tree/master/0820-find-eventual-safe-states) |
