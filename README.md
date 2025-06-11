@@ -303,6 +303,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/pdonda06/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pdonda06/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pdonda06/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pdonda06/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [3427-special-array-ii](https://github.com/pdonda06/LeetCode/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/pdonda06/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/pdonda06/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pdonda06/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -568,6 +570,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/pdonda06/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/pdonda06/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pdonda06/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pdonda06/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -693,6 +696,7 @@
 | [2998-count-symmetric-integers](https://github.com/pdonda06/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/pdonda06/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pdonda06/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/pdonda06/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
 | ------- |
