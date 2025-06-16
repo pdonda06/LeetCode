@@ -94,6 +94,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/pdonda06/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/pdonda06/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pdonda06/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/pdonda06/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/pdonda06/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pdonda06/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/pdonda06/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
