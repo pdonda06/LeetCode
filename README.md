@@ -1074,6 +1074,7 @@
 | [0619-biggest-single-number](https://github.com/pdonda06/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/pdonda06/LeetCode/tree/master/0620-not-boring-movies) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pdonda06/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/pdonda06/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/pdonda06/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pdonda06/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/pdonda06/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
