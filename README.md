@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pdonda06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pdonda06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pdonda06/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/pdonda06/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdonda06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/pdonda06/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pdonda06/LeetCode/tree/master/0136-single-number) |
@@ -933,6 +934,7 @@
 | [0053-maximum-subarray](https://github.com/pdonda06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pdonda06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pdonda06/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/pdonda06/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdonda06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/pdonda06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pdonda06/LeetCode/tree/master/0322-coin-change) |
