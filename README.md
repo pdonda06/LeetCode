@@ -47,6 +47,7 @@
 | [0496-next-greater-element-i](https://github.com/pdonda06/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pdonda06/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pdonda06/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/pdonda06/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pdonda06/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/pdonda06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/pdonda06/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -777,6 +778,7 @@
 | [0051-n-queens](https://github.com/pdonda06/LeetCode/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/pdonda06/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/pdonda06/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/pdonda06/LeetCode/tree/master/0679-24-game) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/pdonda06/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pdonda06/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pdonda06/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1021,6 +1023,7 @@
 | [0189-rotate-array](https://github.com/pdonda06/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pdonda06/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/pdonda06/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/pdonda06/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/pdonda06/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pdonda06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pdonda06/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
